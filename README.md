@@ -2,7 +2,7 @@
 
 # Olá, eu sou Leonardo Valério 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Software+Developer;Mobile+Developer;AI+Enthusiast;NextJS+%26+CRO+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer;Mobile+Developer;AI+Enthusiast)](https://git.io/typing-svg)
 
 <p>
   <a href="mailto:leonardoaugustovalerio@gmail.com">
@@ -22,9 +22,8 @@
 
 ## 🧑‍💻 Sobre mim
 
-- 🔭 Atualmente trabalhando em **desenvolvimento de software**
+- 🔭 Atualmente trabalhando como **Fullstack developer**
 - 🌱 Aprendendo **Inteligência Artificial aplicada** e **Desenvolvimento Mobile**
-- ⚡ Também explorando **Next.js** e **CRO (Conversion Rate Optimization)**
 - 💬 Me pergunte sobre **Node.js, NestJS, React, Flutter, PostgreSQL**
 - 📫 Contato: **leonardoaugustovalerio@gmail.com**
 
@@ -38,7 +37,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Backend
@@ -53,11 +51,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-### IA & Data
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 ### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -65,3 +58,11 @@
 
 ### DevOps & Infra
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=leonardovalerio&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</div>
