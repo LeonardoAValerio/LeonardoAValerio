@@ -23,7 +23,7 @@
 ## 🧑‍💻 Sobre mim
 
 - 🔭 Atualmente trabalhando como **Fullstack developer**
-- 🌱 Aprendendo **Inteligência Artificial aplicada** e **Desenvolvimento Mobile**
+- 🌱 Aprendendo **Inteligência Artificial aplicada** e **Arquitetura de sistemas**
 - 💬 Me pergunte sobre **Node.js, NestJS, React, Flutter, PostgreSQL**
 - 📫 Contato: **leonardoaugustovalerio@gmail.com**
 
